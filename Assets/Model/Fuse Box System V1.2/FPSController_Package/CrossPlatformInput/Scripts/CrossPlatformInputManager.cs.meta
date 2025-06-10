@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ac1ce5a5adfd9f46adbf5b6f752a47c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175376
+  packageName: Adventure Puzzle Kit
+  packageVersion: 1.6
+  assetPath: Assets/Model/Fuse Box System V1.2/FPSController_Package/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+  uploadId: 587340

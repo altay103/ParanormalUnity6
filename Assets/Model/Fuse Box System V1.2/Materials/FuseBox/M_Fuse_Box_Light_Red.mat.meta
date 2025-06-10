@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 288e0c0b474d7f947b3e7fb72de00685
+timeCreated: 1513796778
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175376
+  packageName: Adventure Puzzle Kit
+  packageVersion: 1.6
+  assetPath: Assets/Model/Fuse Box System V1.2/Materials/FuseBox/M_Fuse_Box_Light_Red.mat
+  uploadId: 587340

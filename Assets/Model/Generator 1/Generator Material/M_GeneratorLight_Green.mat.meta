@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2f90729d18485044ad81c1265f363ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175376
+  packageName: Adventure Puzzle Kit
+  packageVersion: 1.6
+  assetPath: Assets/Model/Generator 1/Generator Material/M_GeneratorLight_Green.mat
+  uploadId: 587340
