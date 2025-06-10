@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 627943dc7a9a74286b70a4f694a0acd5
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175376
+  packageName: Adventure Puzzle Kit
+  packageVersion: 1.6
+  assetPath: Assets/Standard Assets/Image Effects (Pro Only)/_Sources/Shaders/VignettingShader.shader
+  uploadId: 587340
